@@ -8,7 +8,13 @@ A TypeScript test on coding and implementing unit tests.
 - Guide how to execute the program and run unit tests.
 
 # How to run
-Download.....
+Requires node.js with TypeScript installed.
+1. Download/Clone this repo.
+2. Install dependencies:
+   - jest
+   - ts-jest
+   - @types/jest
+4. Open up a terminal and point it to `ts-merge` folder.
+5. To run the program, type `npm tsc src/mergeme.ts`, then `node src/mergeme.js`.
 
-# Dependencies
-brb
+
